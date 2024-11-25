@@ -30,7 +30,7 @@ A Python script to extract highlighted or underlined text along with annotations
 
 Run the script with the path to the PDF file:
 ```bash
-python extract_highlighted_text.py path/to/input.pdf
+python extract_annotation.py path/to/input.pdf
 ```
 
 ## Output
